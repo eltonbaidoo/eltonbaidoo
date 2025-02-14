@@ -23,10 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=eltonbaidoo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-### 🐍 My Contribution Snake
-<p align="center">
-  <img src="https://github.com/eltonbaidoo/eltonbaidoo/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
@@ -43,6 +39,11 @@
   <a href="https://github.com/eltonbaidoo"><img src="https://img.shields.io/github/followers/eltonbaidoo?style=social" alt="GitHub"></a>
 </p>
 
+
+### 🐍 My Contribution Snake
+<p align="center">
+  <img src="https://github.com/eltonbaidoo/eltonbaidoo/blob/output/github-contribution-grid-snake.svg" />
+</p>
 <!--
 **eltonbaidoo/eltonbaidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
