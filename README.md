@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently working on **[TikTok Clone](https://github.com/eltonbaidoo/TikTokClone)**
+- 🌱 I’m currently working on **[TikTok Clone](https://github.com/eltonbaidoo/TikTokClone) alongside with BIG O**
 - 💼 I’m a **Hack.Diversity 2025 Boston Cohort Member**
 - 🔭 I previously built **[DocsToTxt](https://github.com/eltonbaidoo/DocsToTxt)**
 - 👯 I’m open to collaborating on **open-source & hackathon projects**
