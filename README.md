@@ -39,10 +39,6 @@
   <a href="https://github.com/eltonbaidoo"><img src="https://img.shields.io/github/followers/eltonbaidoo?style=social" alt="GitHub"></a>
 </p>
 
-### 🐍 My Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eltonbaidoo/eltonbaidoo/output/github-contribution-grid-snake.svg" />
-</p>
 
 <!--
 **eltonbaidoo/eltonbaidoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
