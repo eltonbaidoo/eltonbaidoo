@@ -1,7 +1,7 @@
 name: Generate Snake Animation
 on:
   schedule:
-    - cron: "0 3 * * *"  # Runs daily at 03:00 UTC
+    - cron: "0 3 * * *"  # Runs at 03:00 UTC daily
   workflow_dispatch:  # Allows manual trigger
 
 permissions:
@@ -13,15 +13,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4  # Ensures repo is accessible
+        uses: actions/checkout@v4  # Use the latest version
 
       - name: Generate Snake Animation
         uses: Platane/snk@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist  # Ensures output is stored correctly
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v4
+          outputs: dist  # Store output in the 'dist' folder
 
       - name: Upload Snake Animation
         uses: actions/upload-artifact@v4  # Updated to v4
