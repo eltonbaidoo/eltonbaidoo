@@ -38,6 +38,7 @@
   <a href="https://linkedin.com/in/baidooelton"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/eltonbaidoo"><img src="https://img.shields.io/github/followers/eltonbaidoo?style=social" alt="GitHub"></a>
 </p>
+
 ### 🐍 My Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/eltonbaidoo/eltonbaidoo/main/output/github-contribution-grid-snake.svg" />
