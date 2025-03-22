@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 I’m currently working on **[TikTok Clone](https://github.com/eltonbaidoo/TikTokClone) and [Elephant]() @ BIG O**
+- 🌱 I’m currently working on **[TikTok Clone](https://github.com/eltonbaidoo/TikTokClone) and [Elephant](https://github.com/DDjohnson21/HackathonMar21-2024.git) @ BIG O**
 - 💼 I’m a **Hack.Diversity Fellow**
 - 🔭 Recent **[next-js-chatbot](https://github.com/eltonbaidoo/nextjs-ai-chatbot.git)**
 - 👯 I’m open to collaborating on **open-source & hackathon projects**
