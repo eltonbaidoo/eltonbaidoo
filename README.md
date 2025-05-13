@@ -29,7 +29,7 @@
 
 ### 🔥 Top Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,docker,python,js,react,aws,git,vercel,django,next,linux, mongod" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,docker,python,js,react,aws,git,vercel,django,next,linux" />
 </p>
 
 ---
