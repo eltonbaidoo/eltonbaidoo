@@ -25,6 +25,11 @@
 </p>
 
 
+### Update 
+
+<img src="https://github-readme-stats.vercel.app/api?username=eltonbaidoo&show_icons=true&theme=tokyonight&cache_seconds=30" />
+
+
 ---
 
 ### 🔥 Top Technologies
