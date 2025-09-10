@@ -9,14 +9,13 @@
 
 ---
 
-### 🚀 About Me
-- 🌱 I’m currently working on **[Pinterest-clone](https://github.com/eltonbaidoo/pinterest-clone) and [Elephant](https://github.com/DDjohnson21/HackathonMar21-2024.git)**
-- 💼 I’m a **Hack.Diversity Fellow**
-- 🔭 Recent **[next-js-chatbot](https://github.com/eltonbaidoo/nextjs-ai-chatbot.git)**
-- 👀 Voxel 51 **Hackathon** - 2nd Place
-- 👯 I’m open to collaborating on **open-source & hackathon projects**
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/baidooelton)**
 
+### 🚀 About Me
+- 🌱 I’m currently working on **[Out The Group Chat (OGC)](https://github.com/DDjohnson21/OGC)** and **[MLP Neural Network C++](https://github.com/eltonbaidoo/Implementing-a-MLP-in-Cpp)**
+- 💼 I’m a **Hack.Diversity Alum**
+- 🔭 Recent **[Elephant](https://github.com/DDjohnson21/HackathonMar21-2024)** (Voxel 51 Hackathon – 2nd Place)
+- 👯 I’m open to collaborating on **open-source & hackathon projects**
+- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/baidooelton)** or **[Portfolio](https://eltonbaidoo.com)**
 ---
 
 ### 📊 GitHub Stats
