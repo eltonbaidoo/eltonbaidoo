@@ -16,12 +16,15 @@
 - 🔭 Recent **[Elephant](https://github.com/DDjohnson21/HackathonMar21-2024)** (Voxel 51 Hackathon – 2nd Place)
 - 👯 I’m open to collaborating on **open-source & hackathon projects**
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/baidooelton)** or **[Portfolio](https://eltonbaidoo.com)**
----
-
+<!-- --- -->
+Temp API limit
+<!--
 ### 📊 GitHub Stats
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eltonbaidoo&show_icons=true&locale=en&theme=tokyonight" alt="eltonbaidoo" />
 </p>
+-->
+
 
 
 ---
