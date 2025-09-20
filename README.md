@@ -18,13 +18,11 @@
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/baidooelton)** or **[Portfolio](https://eltonbaidoo.com)**
 <!-- --- -->
 
-<!--
-Temp API limit
+
 ### 📊 GitHub Stats
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eltonbaidoo&show_icons=true&locale=en&theme=tokyonight" alt="eltonbaidoo" />
 </p>
--->
 
 
 
