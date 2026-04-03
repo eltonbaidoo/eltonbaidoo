@@ -22,6 +22,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eltonbaidoo&show_icons=true&locale=en&theme=tokyonight" alt="eltonbaidoo" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eltonbaidoo&show_icons=true&locale=en&theme=tokyonight&cache_seconds=86400&count_private=true" alt="eltonbaidoo" />
 </p>
 
 
